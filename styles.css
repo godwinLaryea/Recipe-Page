@@ -41,6 +41,7 @@ body {
 @media screen and (min-width: 48rem) {
   .wrapper {
     padding: 2rem;
+    margin-block: 2rem;
   }
 }
 
